@@ -1,0 +1,1001 @@
+product_id,Quantity,Unit_Price,Discount_Rate,Sales_Channel,Product_List_Title,Payment_Type
+0,3,120.43682132331526,0.2,Online,Product 53,Wire Transfer
+1,6,475.7249935818949,0.0,Reseller,Product 33,PayPal
+2,3,146.40055601470172,0.05,Direct,Product 6,PayPal
+3,6,19.373193554270635,0.0,Reseller,Product 68,Cash
+4,8,193.22131303627867,0.2,Direct,Product 89,Cash
+5,8,37.72697151189065,0.05,Reseller,Product 27,PayPal
+6,7,193.9797749485852,0.15,Direct,Product 83,Credit Card
+7,1,486.8076309770262,0.0,Direct,Product 13,Credit Card
+8,1,455.0319594631582,0.0,Direct,Product 54,PayPal
+9,8,339.62446716236,0.0,Partner,Product 35,Credit Card
+10,1,142.0608125232136,0.0,Reseller,Product 40,Cash
+11,8,426.6705205487488,0.0,Direct,Product 60,Cash
+12,4,144.29507877767358,0.0,Partner,Product 97,Credit Card
+13,9,159.05737262177763,0.1,Partner,Product 99,Credit Card
+14,6,277.8227995958245,0.15,Reseller,Product 70,Credit Card
+15,9,38.343780229108695,0.0,Partner,Product 8,PayPal
+16,1,380.7977818635983,0.05,Direct,Product 88,Wire Transfer
+17,4,331.7974475135879,0.0,Direct,Product 45,Credit Card
+18,2,379.5816472442196,0.1,Online,Product 95,Credit Card
+19,9,0.0,0.05,Direct,Product 40,Credit Card
+20,6,184.944378545306,0.2,Partner,Product 84,Cash
+21,9,160.81995752356536,0.0,Partner,Product 63,Cash
+22,2,191.84533983076264,0.1,Reseller,Product 99,Credit Card
+23,1,47.71993886183348,0.0,Reseller,Product 11,PayPal
+24,4,0.0,0.2,Partner,Product 57,Credit Card
+25,9,344.4824383994672,0.2,Partner,Product 54,Wire Transfer
+26,5,345.86750277873176,0.05,Direct,Product 71,PayPal
+27,8,97.83409531224756,0.0,Reseller,Product 45,Wire Transfer
+28,3,47.09286638179586,0.05,Direct,Product 7,Credit Card
+29,8,373.5292002097704,0.05,Direct,Product 84,Credit Card
+30,8,202.01109286213276,0.1,Partner,Product 8,Credit Card
+31,1,38.465056519371394,0.15,Partner,Product 80,Wire Transfer
+32,8,0.0,0.1,Online,Product 86,Credit Card
+33,7,476.87935833122793,0.15,Reseller,Product 26,Wire Transfer
+34,3,278.7253898668457,0.05,Reseller,Product 55,Wire Transfer
+35,3,497.8592436544529,0.15,Online,Product 56,PayPal
+36,6,343.01396304020284,0.2,Partner,Product 90,Credit Card
+37,6,323.83326066616354,0.15,Reseller,Product 7,Wire Transfer
+38,6,0.0,0.1,Direct,Product 77,Cash
+39,3,222.07984108263997,0.0,Reseller,Product 8,Cash
+40,3,0.0,0.0,Online,Product 61,Wire Transfer
+41,4,42.34482362871837,0.05,Partner,Product 31,Cash
+42,5,473.7636914436987,0.15,Partner,Product 60,Cash
+43,8,139.3903724999222,0.2,Online,Product 6,PayPal
+44,7,361.0345848594685,0.05,Online,Product 7,PayPal
+45,4,163.26121471307349,0.05,Reseller,Product 76,Wire Transfer
+46,9,352.82338911483964,0.05,Partner,Product 70,Credit Card
+47,6,110.29325343806914,0.2,Partner,Product 23,PayPal
+48,9,383.5282860054704,0.2,Partner,Product 2,Wire Transfer
+49,1,294.99492356470483,0.0,Reseller,Product 9,Credit Card
+50,9,239.86253341331357,0.2,Online,Product 1,Cash
+51,7,334.89312398367696,0.1,Reseller,Product 82,Cash
+52,7,389.9196136975364,0.05,Online,Product 63,Cash
+53,8,340.2571619914079,0.1,Direct,Product 96,PayPal
+54,2,388.83951822014905,0.05,Reseller,Product 17,Credit Card
+55,7,474.0744268831744,0.05,Online,Product 42,Wire Transfer
+56,5,319.87174892090985,0.2,Direct,Product 93,Wire Transfer
+57,9,276.68444339571187,0.05,Online,Product 38,PayPal
+58,1,181.7550618002193,0.1,Reseller,Product 6,PayPal
+59,1,451.4708388883293,0.1,Partner,Product 99,PayPal
+60,5,0.0,0.05,Online,Product 12,Credit Card
+61,8,146.147860283959,0.0,Online,Product 33,Credit Card
+62,8,391.76026733393553,0.05,Partner,Product 10,Wire Transfer
+63,1,348.5331485099032,0.0,Direct,Product 19,Wire Transfer
+64,6,275.0434518806596,0.05,Partner,Product 92,Wire Transfer
+65,1,199.94791467326704,0.15,Partner,Product 52,Credit Card
+66,4,249.36286000335363,0.0,Online,Product 73,Cash
+67,9,36.77086580047643,0.0,Online,Product 50,PayPal
+68,5,0.0,0.1,Online,Product 72,PayPal
+69,4,316.18830880742945,0.15,Reseller,Product 18,Wire Transfer
+70,2,460.0289517512503,0.15,Partner,Product 78,Cash
+71,7,316.0608835761205,0.0,Online,Product 11,Wire Transfer
+72,4,341.2528811457483,0.2,Partner,Product 78,Cash
+73,8,322.4672409790084,0.1,Direct,Product 37,Cash
+74,4,78.75901391482235,0.2,Online,Product 25,PayPal
+75,2,167.36945479161722,0.15,Online,Product 92,PayPal
+76,2,441.2768015815277,0.15,Partner,Product 49,Wire Transfer
+77,6,328.167939042672,0.0,Direct,Product 20,Wire Transfer
+78,6,206.9247279464577,0.15,Direct,Product 20,Credit Card
+79,5,400.3738846237724,0.05,Partner,Product 74,Cash
+80,6,356.78346163108847,0.15,Direct,Product 78,Credit Card
+81,9,64.38906840774428,0.05,Online,Product 23,Wire Transfer
+82,5,280.72547402986567,0.0,Partner,Product 59,Credit Card
+83,7,118.95703932660344,0.0,Partner,Product 11,PayPal
+84,3,428.35461163528686,0.05,Reseller,Product 18,Credit Card
+85,1,498.6465709527653,0.2,Online,Product 47,Credit Card
+86,3,381.08200149587503,0.05,Direct,Product 72,PayPal
+87,9,17.404235265092765,0.05,Reseller,Product 81,Credit Card
+88,5,425.22008597997313,0.15,Partner,Product 52,Credit Card
+89,4,480.7072180014679,0.1,Direct,Product 41,Credit Card
+90,4,210.61191519033895,0.2,Partner,Product 39,Wire Transfer
+91,6,333.8969845811869,0.0,Online,Product 41,Wire Transfer
+92,8,446.20535129172544,0.2,Reseller,Product 1,Cash
+93,5,265.4350633505281,0.0,Direct,Product 27,Cash
+94,6,158.43614376381032,0.15,Reseller,Product 47,PayPal
+95,8,436.9928767535186,0.15,Partner,Product 1,PayPal
+96,3,183.66822490859687,0.0,Online,Product 59,Cash
+97,5,139.6711631934251,0.05,Direct,Product 62,Cash
+98,3,61.64267687282456,0.1,Partner,Product 98,Wire Transfer
+99,2,395.2407696079184,0.05,Reseller,Product 21,Credit Card
+100,6,97.88444504172809,0.15,Direct,Product 35,PayPal
+101,7,118.21786365187435,0.05,Partner,Product 73,Credit Card
+102,3,482.8575310326912,0.0,Reseller,Product 67,Cash
+103,1,225.2131946123615,0.2,Partner,Product 3,Cash
+104,3,103.88054341006465,0.0,Reseller,Product 86,Cash
+105,4,384.57595675699713,0.0,Direct,Product 70,Cash
+106,9,36.140518524559866,0.0,Online,Product 50,Credit Card
+107,4,102.38489681713304,0.1,Partner,Product 73,PayPal
+108,1,0.0,0.15,Reseller,Product 28,Credit Card
+109,7,264.1634872464916,0.0,Partner,Product 16,Credit Card
+110,9,447.3535314683725,0.2,Online,Product 36,Wire Transfer
+111,8,45.17014505099139,0.05,Reseller,Product 7,Cash
+112,6,148.42307232669762,0.15,Online,Product 16,PayPal
+113,9,488.7334076750823,0.2,Reseller,Product 53,Wire Transfer
+114,4,0.0,0.15,Reseller,Product 46,Credit Card
+115,4,439.9603228606961,0.15,Reseller,Product 2,Wire Transfer
+116,3,495.4327869622253,0.0,Partner,Product 9,Cash
+117,3,97.83524983481712,0.1,Direct,Product 73,Credit Card
+118,5,110.6131399663319,0.1,Reseller,Product 58,Wire Transfer
+119,9,423.2298222160628,0.0,Reseller,Product 17,Wire Transfer
+120,9,446.5192121417419,0.2,Reseller,Product 67,Cash
+121,3,130.9436959089321,0.2,Online,Product 6,PayPal
+122,9,14.889600562640194,0.1,Reseller,Product 92,PayPal
+123,5,154.69772401019807,0.0,Reseller,Product 65,Wire Transfer
+124,4,308.7517383247818,0.05,Reseller,Product 44,PayPal
+125,1,0.0,0.0,Reseller,Product 3,Credit Card
+126,7,250.6369073977509,0.0,Partner,Product 30,Wire Transfer
+127,6,17.543496928741153,0.2,Partner,Product 37,PayPal
+128,9,327.6758236515268,0.1,Reseller,Product 98,Credit Card
+129,7,467.02814898505306,0.1,Direct,Product 14,Wire Transfer
+130,1,401.1636666325015,0.05,Direct,Product 20,Credit Card
+131,2,0.0,0.0,Reseller,Product 37,Cash
+132,9,394.03174302686585,0.2,Direct,Product 16,Wire Transfer
+133,9,20.73753109975439,0.1,Direct,Product 52,PayPal
+134,7,483.7542949016498,0.15,Partner,Product 46,Credit Card
+135,7,439.18271092335794,0.1,Online,Product 80,PayPal
+136,9,311.9872381036048,0.0,Partner,Product 37,Cash
+137,2,0.0,0.0,Online,Product 74,Credit Card
+138,5,0.0,0.0,Reseller,Product 85,Credit Card
+139,7,0.0,0.0,Reseller,Product 60,Credit Card
+140,6,164.6573984440415,0.15,Direct,Product 59,Wire Transfer
+141,3,433.5722909654984,0.2,Direct,Product 76,Cash
+142,5,314.0321546754656,0.0,Reseller,Product 1,Wire Transfer
+143,3,0.0,0.0,Partner,Product 47,PayPal
+144,4,11.871762102705723,0.15,Online,Product 95,PayPal
+145,3,153.26772410197464,0.2,Direct,Product 31,Credit Card
+146,5,480.4664461586692,0.1,Reseller,Product 95,Wire Transfer
+147,9,285.4156692572598,0.1,Direct,Product 77,Wire Transfer
+148,9,404.20237479159294,0.0,Online,Product 21,Cash
+149,2,221.84965093764015,0.1,Online,Product 32,Cash
+150,3,0.0,0.2,Partner,Product 93,Credit Card
+151,2,312.22396784774514,0.15,Online,Product 4,Wire Transfer
+152,3,448.71958368505295,0.0,Partner,Product 25,Credit Card
+153,9,169.39461567128524,0.1,Direct,Product 60,PayPal
+154,4,262.35277325776434,0.0,Partner,Product 13,Cash
+155,5,476.1973782143273,0.15,Reseller,Product 35,Cash
+156,9,198.9428203315333,0.15,Direct,Product 13,Wire Transfer
+157,6,313.56783801778863,0.2,Reseller,Product 56,Cash
+158,4,182.94966669165476,0.2,Direct,Product 99,Wire Transfer
+159,2,174.2867345383649,0.05,Online,Product 74,Credit Card
+160,1,211.85946656670995,0.15,Partner,Product 44,Cash
+161,5,137.5159330127624,0.0,Online,Product 3,Wire Transfer
+162,3,327.4305485353589,0.0,Direct,Product 66,PayPal
+163,5,190.2151340005149,0.15,Direct,Product 22,Cash
+164,9,334.2253013159297,0.15,Direct,Product 61,Wire Transfer
+165,8,237.4066281322169,0.0,Reseller,Product 2,PayPal
+166,8,204.83006549090655,0.1,Direct,Product 61,Credit Card
+167,8,222.03727664965527,0.1,Partner,Product 6,PayPal
+168,9,207.4079084899922,0.0,Direct,Product 42,PayPal
+169,6,315.5879013622304,0.2,Partner,Product 89,PayPal
+170,5,122.90416443750144,0.0,Direct,Product 89,PayPal
+171,1,132.9375923886402,0.1,Partner,Product 22,Wire Transfer
+172,9,461.2873153373222,0.05,Partner,Product 26,PayPal
+173,9,94.13001477567028,0.2,Online,Product 75,Credit Card
+174,6,191.2084954337165,0.15,Partner,Product 21,Cash
+175,7,40.57309361315585,0.05,Partner,Product 47,Credit Card
+176,2,485.425983765768,0.0,Partner,Product 80,PayPal
+177,1,330.6275826914327,0.1,Direct,Product 82,Wire Transfer
+178,5,398.6400082584023,0.1,Online,Product 81,Cash
+179,4,314.9481996624506,0.1,Direct,Product 24,PayPal
+180,8,295.7634940957778,0.0,Reseller,Product 95,Cash
+181,6,440.80102857461134,0.1,Direct,Product 46,Wire Transfer
+182,2,319.15167721229005,0.15,Partner,Product 98,Cash
+183,2,450.29469629067125,0.0,Direct,Product 88,PayPal
+184,6,420.6959377444349,0.0,Partner,Product 91,PayPal
+185,5,353.55840126456206,0.15,Reseller,Product 55,Credit Card
+186,9,217.08830653666848,0.05,Online,Product 71,Cash
+187,3,307.29854511154383,0.15,Online,Product 71,PayPal
+188,3,277.7508548781452,0.05,Partner,Product 68,PayPal
+189,9,56.74564588347321,0.15,Online,Product 15,PayPal
+190,5,351.11651111758334,0.2,Partner,Product 75,Wire Transfer
+191,9,242.22139785689032,0.05,Partner,Product 78,Cash
+192,9,394.04232281721255,0.05,Direct,Product 5,PayPal
+193,1,24.71274261140248,0.0,Direct,Product 98,Cash
+194,7,31.510971895072508,0.2,Direct,Product 96,PayPal
+195,2,0.0,0.1,Online,Product 60,Cash
+196,3,237.85466358794952,0.0,Direct,Product 42,Wire Transfer
+197,4,290.577544112191,0.2,Reseller,Product 37,Cash
+198,2,263.8006585791637,0.0,Partner,Product 83,Credit Card
+199,2,420.1886176370196,0.2,Direct,Product 93,PayPal
+200,1,137.1924601447741,0.2,Reseller,Product 97,Wire Transfer
+201,3,234.27280652805405,0.15,Online,Product 74,Cash
+202,7,359.8858344552821,0.0,Online,Product 78,Credit Card
+203,4,113.701590299232,0.0,Direct,Product 64,Credit Card
+204,3,53.41630984514274,0.2,Partner,Product 18,Wire Transfer
+205,9,339.7071176130591,0.1,Reseller,Product 89,Wire Transfer
+206,7,46.31165706168487,0.2,Partner,Product 13,Wire Transfer
+207,7,128.5277141153157,0.05,Reseller,Product 17,Cash
+208,4,208.2184189311961,0.15,Online,Product 15,Cash
+209,8,42.6167166779692,0.1,Online,Product 80,Wire Transfer
+210,7,256.2893088887639,0.0,Online,Product 92,Wire Transfer
+211,4,483.3632775130519,0.0,Direct,Product 37,PayPal
+212,3,51.43703526764655,0.1,Direct,Product 11,Cash
+213,8,446.300663437471,0.1,Online,Product 53,Credit Card
+214,4,0.0,0.1,Direct,Product 82,Credit Card
+215,6,427.7482364105255,0.0,Direct,Product 75,Wire Transfer
+216,1,101.98397878920352,0.0,Online,Product 78,Cash
+217,3,142.69510073811657,0.0,Direct,Product 48,PayPal
+218,6,396.753495676646,0.05,Reseller,Product 29,Credit Card
+219,1,36.62269706322287,0.1,Partner,Product 1,PayPal
+220,6,367.3789491031182,0.0,Direct,Product 14,Credit Card
+221,1,222.8576263132388,0.0,Online,Product 76,PayPal
+222,8,471.934916356115,0.1,Direct,Product 11,Wire Transfer
+223,9,444.185783303472,0.0,Reseller,Product 59,Cash
+224,8,457.75633749789705,0.1,Reseller,Product 84,Wire Transfer
+225,6,67.60013707360778,0.05,Online,Product 79,Credit Card
+226,6,0.0,0.15,Partner,Product 35,Wire Transfer
+227,6,134.1034679261304,0.2,Partner,Product 73,Cash
+228,5,439.9017220350909,0.0,Reseller,Product 22,Credit Card
+229,7,356.41847885330094,0.1,Online,Product 16,PayPal
+230,8,0.0,0.1,Partner,Product 67,Wire Transfer
+231,6,307.79881471686974,0.0,Partner,Product 90,PayPal
+232,9,442.45433961845015,0.2,Partner,Product 78,PayPal
+233,6,376.61011690393474,0.15,Online,Product 40,Cash
+234,5,414.45367542073456,0.2,Reseller,Product 51,Credit Card
+235,6,198.3339688768261,0.0,Partner,Product 40,PayPal
+236,9,17.199760440927385,0.2,Online,Product 28,PayPal
+237,4,42.95539784401025,0.2,Online,Product 12,PayPal
+238,8,251.50364637924883,0.0,Online,Product 66,Credit Card
+239,6,56.50978904261816,0.1,Reseller,Product 5,Cash
+240,3,292.7900671587772,0.2,Partner,Product 93,PayPal
+241,1,0.0,0.2,Reseller,Product 93,PayPal
+242,8,214.9835934101173,0.15,Reseller,Product 90,Cash
+243,3,475.8786267883556,0.15,Direct,Product 99,Credit Card
+244,6,446.1691573240472,0.05,Reseller,Product 38,Cash
+245,2,186.6091452993282,0.2,Direct,Product 22,Credit Card
+246,3,292.5841754403006,0.05,Partner,Product 34,PayPal
+247,5,430.8202178723958,0.2,Online,Product 6,PayPal
+248,1,407.33050469388,0.0,Reseller,Product 78,Wire Transfer
+249,2,0.0,0.1,Online,Product 45,Credit Card
+250,4,330.7788365643177,0.0,Online,Product 12,Credit Card
+251,2,0.0,0.0,Reseller,Product 74,Credit Card
+252,7,152.347207778996,0.05,Partner,Product 46,Credit Card
+253,7,275.462872491106,0.05,Partner,Product 73,Credit Card
+254,4,10.663276600579396,0.2,Partner,Product 76,Wire Transfer
+255,6,103.15274839402652,0.0,Online,Product 55,Credit Card
+256,5,189.18356664807197,0.1,Reseller,Product 48,Wire Transfer
+257,4,263.1822087608712,0.2,Direct,Product 52,Wire Transfer
+258,1,405.5062133087925,0.0,Partner,Product 60,PayPal
+259,3,480.85087199512407,0.05,Online,Product 62,Wire Transfer
+260,5,60.258301665959,0.15,Online,Product 31,PayPal
+261,8,418.0868846262528,0.0,Online,Product 10,Credit Card
+262,2,410.3927895876368,0.0,Partner,Product 24,Credit Card
+263,5,141.02699365019524,0.2,Online,Product 74,Credit Card
+264,1,73.54269932987532,0.15,Reseller,Product 50,Credit Card
+265,7,293.3662157159767,0.0,Reseller,Product 92,Wire Transfer
+266,6,487.9181354047446,0.15,Direct,Product 45,Cash
+267,7,64.64098403742543,0.1,Reseller,Product 61,Credit Card
+268,3,235.235786497304,0.15,Online,Product 20,Cash
+269,3,209.6960852058911,0.05,Direct,Product 69,Wire Transfer
+270,7,496.6949575572524,0.05,Online,Product 35,PayPal
+271,5,135.66689989821532,0.15,Direct,Product 28,Credit Card
+272,6,425.7284357543571,0.05,Partner,Product 34,PayPal
+273,2,0.0,0.1,Direct,Product 14,Cash
+274,8,150.94003723140233,0.1,Partner,Product 79,Cash
+275,6,45.43507287638992,0.05,Online,Product 81,Credit Card
+276,2,145.39636314826828,0.2,Partner,Product 4,Credit Card
+277,4,381.8003643410893,0.1,Reseller,Product 82,Credit Card
+278,3,278.9407458879044,0.05,Partner,Product 94,Cash
+279,3,0.0,0.2,Direct,Product 96,PayPal
+280,8,319.3952713970044,0.0,Direct,Product 53,Wire Transfer
+281,2,367.2007202113501,0.1,Direct,Product 5,Wire Transfer
+282,3,310.5129255948157,0.15,Direct,Product 38,Credit Card
+283,8,16.735321465559174,0.05,Online,Product 97,PayPal
+284,1,407.4506472674008,0.2,Reseller,Product 18,Credit Card
+285,1,371.57952274347247,0.05,Online,Product 82,Wire Transfer
+286,3,180.5668406524612,0.05,Partner,Product 88,Credit Card
+287,7,300.491688448974,0.0,Partner,Product 80,PayPal
+288,1,14.09820411965998,0.15,Reseller,Product 37,PayPal
+289,2,406.03525290451887,0.1,Partner,Product 96,Wire Transfer
+290,1,453.9826596358176,0.15,Online,Product 74,PayPal
+291,3,136.76870465616605,0.15,Online,Product 10,PayPal
+292,1,170.10384559472,0.1,Reseller,Product 96,Cash
+293,7,82.01172769822274,0.0,Direct,Product 36,Cash
+294,8,213.72980072642773,0.1,Partner,Product 61,PayPal
+295,3,399.31261680046686,0.2,Reseller,Product 15,Credit Card
+296,4,308.903634368948,0.0,Direct,Product 42,PayPal
+297,4,349.87284816215964,0.15,Reseller,Product 15,Cash
+298,2,404.162889241962,0.0,Online,Product 89,PayPal
+299,5,64.1116130714403,0.2,Direct,Product 52,Cash
+300,5,296.0486624519147,0.1,Reseller,Product 25,PayPal
+301,9,290.15553174043686,0.2,Partner,Product 78,PayPal
+302,3,414.1241863000337,0.05,Partner,Product 45,Wire Transfer
+303,8,120.80141231233924,0.1,Partner,Product 13,Wire Transfer
+304,1,217.4342206350668,0.2,Online,Product 92,Cash
+305,2,256.5111358821198,0.0,Reseller,Product 62,Wire Transfer
+306,9,413.0420492482564,0.0,Online,Product 10,Cash
+307,6,486.9574833907624,0.05,Direct,Product 34,Cash
+308,2,13.84237947823924,0.0,Online,Product 5,PayPal
+309,8,106.36025662694976,0.2,Partner,Product 28,Cash
+310,3,175.2312220272185,0.2,Partner,Product 15,Credit Card
+311,6,47.66241688532012,0.0,Online,Product 77,Cash
+312,5,488.24677340681467,0.15,Reseller,Product 78,PayPal
+313,5,233.03427594949164,0.05,Direct,Product 76,Cash
+314,9,0.0,0.1,Direct,Product 97,Cash
+315,4,167.53289361146216,0.05,Online,Product 97,Credit Card
+316,5,47.35721680704659,0.0,Partner,Product 46,Credit Card
+317,1,490.7843392904168,0.1,Reseller,Product 56,PayPal
+318,2,48.44334999539073,0.2,Partner,Product 59,Cash
+319,1,0.0,0.1,Online,Product 33,Cash
+320,4,111.06353577971478,0.0,Partner,Product 54,PayPal
+321,5,356.6245300161346,0.0,Reseller,Product 16,Credit Card
+322,1,355.2316697334482,0.05,Online,Product 25,PayPal
+323,1,371.9743438560175,0.0,Reseller,Product 44,PayPal
+324,3,302.6060999352479,0.0,Online,Product 47,PayPal
+325,1,282.87043715432696,0.1,Direct,Product 63,Wire Transfer
+326,4,430.7944968812414,0.1,Direct,Product 91,Credit Card
+327,9,40.63788491399441,0.15,Partner,Product 7,Cash
+328,7,0.0,0.1,Online,Product 55,PayPal
+329,3,212.68491071013128,0.15,Direct,Product 42,Wire Transfer
+330,2,155.31435698090604,0.2,Direct,Product 57,Credit Card
+331,6,299.6538485966731,0.15,Partner,Product 3,Credit Card
+332,6,110.11502786549543,0.0,Partner,Product 36,Credit Card
+333,7,226.84730225922533,0.0,Partner,Product 89,Cash
+334,7,192.830083026968,0.0,Direct,Product 90,PayPal
+335,7,247.1547904080761,0.0,Direct,Product 35,Credit Card
+336,8,124.75965175390373,0.2,Direct,Product 10,Wire Transfer
+337,3,25.26305546876162,0.2,Online,Product 49,Credit Card
+338,3,10.976146257344432,0.0,Reseller,Product 63,PayPal
+339,7,0.0,0.05,Reseller,Product 82,Credit Card
+340,2,14.076771691324089,0.0,Reseller,Product 16,Cash
+341,4,332.93225096479387,0.0,Reseller,Product 9,Wire Transfer
+342,6,145.7361369197296,0.1,Reseller,Product 72,PayPal
+343,9,341.7009836684503,0.1,Partner,Product 7,Credit Card
+344,2,186.4247282914794,0.05,Partner,Product 11,Cash
+345,5,321.6107601450883,0.15,Direct,Product 61,Cash
+346,9,297.91707684360694,0.15,Reseller,Product 94,Cash
+347,5,307.35500821466815,0.2,Online,Product 42,Credit Card
+348,6,368.87651403860576,0.0,Direct,Product 89,PayPal
+349,4,158.9318310049634,0.05,Reseller,Product 49,Wire Transfer
+350,7,350.0352993499768,0.15,Online,Product 54,PayPal
+351,8,70.94051551025001,0.05,Reseller,Product 89,Wire Transfer
+352,7,43.54477247345325,0.0,Partner,Product 35,Credit Card
+353,6,0.0,0.1,Online,Product 57,Cash
+354,4,473.8995271724638,0.0,Direct,Product 70,Cash
+355,4,190.6665137237497,0.2,Reseller,Product 94,Cash
+356,1,386.10813797378,0.0,Partner,Product 81,Wire Transfer
+357,4,371.3387820276319,0.2,Partner,Product 88,Cash
+358,1,429.70323963648417,0.05,Online,Product 95,PayPal
+359,5,331.7492261168593,0.2,Direct,Product 15,Cash
+360,8,82.16502614052456,0.0,Reseller,Product 71,Wire Transfer
+361,3,0.0,0.2,Direct,Product 49,Wire Transfer
+362,8,403.7334531366756,0.0,Reseller,Product 17,Wire Transfer
+363,4,87.06387200806053,0.1,Direct,Product 4,Wire Transfer
+364,3,185.32890121563892,0.1,Direct,Product 7,PayPal
+365,4,221.68927452130796,0.0,Direct,Product 92,Cash
+366,1,445.1779125776776,0.15,Direct,Product 18,Cash
+367,3,485.6315072507746,0.0,Online,Product 36,Wire Transfer
+368,3,237.47687467222025,0.0,Reseller,Product 46,Wire Transfer
+369,4,246.6894518038561,0.05,Direct,Product 76,Cash
+370,8,132.01428069345403,0.15,Online,Product 81,Credit Card
+371,3,256.5349115502546,0.05,Online,Product 36,Wire Transfer
+372,9,90.98940017004914,0.2,Online,Product 7,Cash
+373,7,43.493068151879726,0.1,Reseller,Product 62,Wire Transfer
+374,9,72.6547325989846,0.05,Partner,Product 29,Wire Transfer
+375,3,172.90351700286888,0.2,Direct,Product 7,PayPal
+376,8,0.0,0.1,Partner,Product 50,Credit Card
+377,5,315.6341115833645,0.05,Direct,Product 54,PayPal
+378,7,350.3740698579266,0.1,Online,Product 78,PayPal
+379,2,0.0,0.0,Reseller,Product 4,Cash
+380,6,369.8775267170398,0.05,Direct,Product 66,Cash
+381,7,334.59266573352335,0.0,Online,Product 10,Wire Transfer
+382,3,105.53784795114171,0.0,Partner,Product 83,Credit Card
+383,2,498.6193534124457,0.05,Online,Product 10,Cash
+384,4,156.90225850696558,0.05,Direct,Product 89,Credit Card
+385,4,157.51257813881338,0.1,Online,Product 80,Cash
+386,9,0.0,0.2,Partner,Product 63,Wire Transfer
+387,7,373.042987514515,0.0,Direct,Product 30,PayPal
+388,7,107.61548469808602,0.15,Reseller,Product 34,PayPal
+389,5,167.61829493317882,0.15,Online,Product 75,Cash
+390,6,376.70833134135336,0.2,Direct,Product 44,Cash
+391,7,299.4125386573725,0.2,Partner,Product 4,Cash
+392,9,30.78692612137693,0.2,Online,Product 79,PayPal
+393,2,298.8324548475016,0.15,Partner,Product 19,Credit Card
+394,4,260.4532782262426,0.2,Online,Product 88,Cash
+395,4,392.3843005497804,0.15,Direct,Product 63,Wire Transfer
+396,3,97.88869418598313,0.1,Direct,Product 22,PayPal
+397,7,225.4728383888752,0.0,Direct,Product 21,Cash
+398,8,449.7092742375567,0.0,Partner,Product 22,Cash
+399,4,486.8082998564431,0.0,Direct,Product 5,Cash
+400,5,154.6923420834922,0.2,Online,Product 45,Cash
+401,2,498.1172600144016,0.05,Direct,Product 97,Cash
+402,9,143.2535593150399,0.2,Reseller,Product 42,PayPal
+403,8,190.5399707591237,0.05,Online,Product 79,PayPal
+404,2,359.39256481081617,0.1,Reseller,Product 46,Credit Card
+405,2,109.28999072631817,0.2,Partner,Product 25,Wire Transfer
+406,6,10.005701030129408,0.0,Direct,Product 5,PayPal
+407,6,449.98040160925626,0.15,Direct,Product 13,PayPal
+408,7,482.398424080153,0.2,Reseller,Product 12,Wire Transfer
+409,5,428.9647987937682,0.0,Direct,Product 17,Cash
+410,3,151.70184868501542,0.0,Direct,Product 64,Credit Card
+411,9,464.2842081406294,0.2,Online,Product 3,PayPal
+412,8,343.2548238690166,0.2,Online,Product 84,Cash
+413,5,0.0,0.1,Direct,Product 96,Wire Transfer
+414,4,255.30589135450472,0.0,Partner,Product 81,Cash
+415,9,0.0,0.1,Direct,Product 42,PayPal
+416,8,423.98696040006223,0.05,Direct,Product 36,Wire Transfer
+417,4,395.8196431086431,0.0,Reseller,Product 53,Wire Transfer
+418,2,412.69716382682606,0.1,Online,Product 42,Wire Transfer
+419,2,65.51871731645745,0.0,Direct,Product 58,Wire Transfer
+420,2,29.099867123953903,0.1,Online,Product 41,Credit Card
+421,5,0.0,0.05,Partner,Product 42,Wire Transfer
+422,2,137.17547375628425,0.05,Online,Product 23,Credit Card
+423,7,245.6361718354744,0.2,Online,Product 56,Cash
+424,8,79.99256275902262,0.1,Partner,Product 14,Wire Transfer
+425,3,172.4667025429249,0.1,Direct,Product 45,Cash
+426,2,257.7607351767598,0.0,Online,Product 49,PayPal
+427,1,382.9085172228837,0.0,Partner,Product 52,Cash
+428,6,234.880853132442,0.1,Online,Product 27,Credit Card
+429,9,228.31540298352652,0.05,Partner,Product 32,Credit Card
+430,8,78.99344495741128,0.1,Online,Product 61,PayPal
+431,7,484.20311798208536,0.0,Partner,Product 23,Cash
+432,9,148.41458454874305,0.15,Partner,Product 54,Cash
+433,9,300.8448583356051,0.15,Online,Product 39,Cash
+434,2,209.9943285246821,0.1,Online,Product 58,PayPal
+435,3,374.0119318972901,0.15,Online,Product 62,PayPal
+436,1,200.0347840592963,0.0,Direct,Product 53,Wire Transfer
+437,2,25.554445032764423,0.05,Direct,Product 32,Credit Card
+438,5,447.01735095726,0.0,Direct,Product 38,PayPal
+439,1,287.4285387002847,0.15,Direct,Product 77,PayPal
+440,5,317.92896374114764,0.1,Online,Product 30,PayPal
+441,9,59.67271980104798,0.2,Online,Product 5,Credit Card
+442,5,129.26437477707992,0.1,Online,Product 68,Credit Card
+443,3,177.53358627169027,0.2,Reseller,Product 36,Wire Transfer
+444,6,0.0,0.0,Reseller,Product 65,Credit Card
+445,6,338.8671619560474,0.0,Online,Product 96,Wire Transfer
+446,5,293.61530971085085,0.1,Reseller,Product 33,Wire Transfer
+447,2,376.2477592323801,0.0,Direct,Product 26,Wire Transfer
+448,5,403.7065442154735,0.1,Reseller,Product 22,Wire Transfer
+449,8,405.4130905331569,0.0,Online,Product 92,Credit Card
+450,4,303.53184770368694,0.05,Reseller,Product 67,Wire Transfer
+451,3,108.13818875513668,0.05,Online,Product 38,Wire Transfer
+452,1,0.0,0.0,Reseller,Product 60,PayPal
+453,5,49.76309748275718,0.2,Direct,Product 18,PayPal
+454,6,222.57053559249948,0.15,Direct,Product 69,Credit Card
+455,5,14.86267235263946,0.2,Direct,Product 20,Credit Card
+456,9,109.1045484570221,0.15,Direct,Product 21,Wire Transfer
+457,4,122.14897661691452,0.15,Online,Product 86,Wire Transfer
+458,9,351.632597135722,0.05,Partner,Product 32,PayPal
+459,8,35.39954156866722,0.1,Reseller,Product 1,PayPal
+460,7,369.0225347892374,0.0,Reseller,Product 85,PayPal
+461,4,273.7826521952996,0.1,Online,Product 65,PayPal
+462,5,320.02882058681445,0.1,Partner,Product 9,Wire Transfer
+463,4,264.4200396823005,0.0,Direct,Product 72,PayPal
+464,3,302.45741967500214,0.0,Reseller,Product 71,PayPal
+465,8,18.304355795894686,0.2,Online,Product 85,Wire Transfer
+466,8,0.0,0.0,Online,Product 76,Wire Transfer
+467,1,357.2951710622856,0.05,Direct,Product 85,Credit Card
+468,3,370.9022618840484,0.1,Direct,Product 39,Cash
+469,7,0.0,0.15,Partner,Product 53,Credit Card
+470,6,82.17849169669547,0.1,Partner,Product 9,Cash
+471,9,47.7161179966283,0.1,Online,Product 98,Cash
+472,8,131.70796828417167,0.2,Online,Product 57,Wire Transfer
+473,6,432.6938308630977,0.0,Direct,Product 60,Credit Card
+474,3,150.83070226813408,0.0,Online,Product 53,Cash
+475,3,402.0017060642039,0.05,Direct,Product 3,Credit Card
+476,3,35.47478246907667,0.15,Reseller,Product 70,Cash
+477,8,0.0,0.15,Partner,Product 9,Wire Transfer
+478,8,459.5680631346752,0.1,Direct,Product 97,Cash
+479,5,15.59481189249608,0.0,Online,Product 20,Wire Transfer
+480,9,222.45556838998104,0.0,Reseller,Product 18,PayPal
+481,2,12.603603077489511,0.0,Direct,Product 47,PayPal
+482,2,373.7040617275527,0.2,Reseller,Product 49,Wire Transfer
+483,3,59.47927234070293,0.2,Reseller,Product 69,Credit Card
+484,7,113.5035974217362,0.1,Direct,Product 92,Credit Card
+485,5,191.0913577191189,0.0,Reseller,Product 95,PayPal
+486,2,40.71791459471427,0.15,Online,Product 16,Cash
+487,1,130.83578113923207,0.2,Direct,Product 92,Cash
+488,2,55.11282318041296,0.2,Partner,Product 89,Wire Transfer
+489,7,165.61752967794718,0.0,Partner,Product 97,Cash
+490,6,387.8501797674245,0.1,Online,Product 44,Wire Transfer
+491,4,301.614520703784,0.15,Direct,Product 35,Cash
+492,3,0.0,0.15,Reseller,Product 88,PayPal
+493,8,255.2957498658067,0.2,Partner,Product 63,Cash
+494,5,463.8350935315732,0.15,Partner,Product 48,PayPal
+495,6,294.2435289880328,0.05,Direct,Product 40,Cash
+496,5,336.5288526533212,0.05,Reseller,Product 58,PayPal
+497,6,490.77714001352433,0.1,Online,Product 61,PayPal
+498,8,442.02839980331896,0.0,Direct,Product 32,Wire Transfer
+499,5,0.0,0.2,Reseller,Product 58,Wire Transfer
+500,4,61.62881190291967,0.2,Reseller,Product 6,Credit Card
+501,5,314.9826843673384,0.05,Partner,Product 32,Cash
+502,2,43.07624787507275,0.05,Online,Product 68,Credit Card
+503,6,387.37752376097706,0.15,Reseller,Product 68,PayPal
+504,8,28.409834295464616,0.1,Online,Product 88,PayPal
+505,5,255.1761286456247,0.05,Partner,Product 83,Credit Card
+506,7,0.0,0.05,Online,Product 7,Wire Transfer
+507,1,340.0862545627048,0.1,Reseller,Product 1,Credit Card
+508,8,210.7388161542364,0.2,Direct,Product 43,Cash
+509,8,18.88078011240757,0.0,Online,Product 6,Wire Transfer
+510,1,403.29375305293553,0.05,Direct,Product 33,Cash
+511,2,15.956818023919537,0.1,Partner,Product 18,Cash
+512,7,220.18272338077068,0.0,Reseller,Product 85,Wire Transfer
+513,6,0.0,0.2,Reseller,Product 29,PayPal
+514,9,434.3868604697288,0.1,Direct,Product 77,Cash
+515,8,207.7644911571797,0.2,Direct,Product 55,Cash
+516,6,472.92076680370906,0.2,Direct,Product 6,Credit Card
+517,8,325.96797597093376,0.0,Direct,Product 4,PayPal
+518,1,208.10197615488585,0.15,Reseller,Product 71,Credit Card
+519,3,315.08896146334246,0.0,Partner,Product 29,PayPal
+520,4,222.40139405026085,0.0,Partner,Product 36,Cash
+521,5,141.73822204727483,0.0,Partner,Product 82,Wire Transfer
+522,6,142.4927103284175,0.15,Reseller,Product 89,Cash
+523,9,265.51522297352125,0.05,Partner,Product 40,Wire Transfer
+524,5,35.65395989186148,0.15,Partner,Product 42,Wire Transfer
+525,4,32.95743517852553,0.1,Reseller,Product 10,Credit Card
+526,5,0.0,0.0,Direct,Product 3,PayPal
+527,5,397.8635192697713,0.1,Online,Product 60,Wire Transfer
+528,3,86.54121865644477,0.1,Online,Product 29,Cash
+529,9,306.76256576847163,0.15,Direct,Product 67,Credit Card
+530,1,142.99059641889005,0.1,Partner,Product 98,Cash
+531,5,270.159462421926,0.2,Direct,Product 81,Wire Transfer
+532,8,301.69860030446966,0.15,Direct,Product 33,Cash
+533,1,89.8873150964796,0.2,Partner,Product 26,Cash
+534,2,123.86831829746345,0.1,Online,Product 94,PayPal
+535,1,490.7477748552885,0.0,Partner,Product 78,Cash
+536,1,434.71747370794014,0.2,Online,Product 16,Credit Card
+537,2,388.6766909122653,0.1,Reseller,Product 17,Wire Transfer
+538,5,325.6331185231988,0.1,Reseller,Product 48,Cash
+539,3,314.43330003430896,0.05,Direct,Product 82,Credit Card
+540,4,127.79546731781838,0.0,Partner,Product 84,PayPal
+541,2,209.48217967155756,0.2,Reseller,Product 52,Wire Transfer
+542,1,0.0,0.1,Partner,Product 81,Credit Card
+543,7,420.3098690873738,0.05,Online,Product 41,Cash
+544,3,356.47237386068207,0.1,Reseller,Product 90,Wire Transfer
+545,5,471.1491981415001,0.05,Online,Product 53,Credit Card
+546,3,328.2593755566492,0.2,Online,Product 78,PayPal
+547,4,409.3204669848642,0.05,Direct,Product 96,Cash
+548,7,346.63944058658893,0.05,Reseller,Product 73,Wire Transfer
+549,7,242.16681591499383,0.0,Reseller,Product 48,Cash
+550,2,396.57691117024353,0.05,Reseller,Product 99,Credit Card
+551,2,180.9220616450449,0.0,Online,Product 84,PayPal
+552,1,128.56879385535223,0.0,Direct,Product 12,Cash
+553,8,0.0,0.2,Direct,Product 22,Cash
+554,5,172.77360622664625,0.1,Online,Product 56,PayPal
+555,9,393.1603888074,0.0,Partner,Product 35,PayPal
+556,9,183.9130838297349,0.0,Direct,Product 28,Wire Transfer
+557,4,89.72287446619728,0.05,Reseller,Product 61,Cash
+558,8,141.12041159670602,0.05,Reseller,Product 50,Cash
+559,2,120.75420892983986,0.15,Partner,Product 64,PayPal
+560,2,274.1563308406443,0.0,Direct,Product 41,Credit Card
+561,2,163.32462316468764,0.2,Direct,Product 20,Credit Card
+562,7,163.54047961672015,0.2,Partner,Product 21,PayPal
+563,8,184.874127833844,0.2,Reseller,Product 80,PayPal
+564,3,111.46714651331908,0.0,Direct,Product 58,Credit Card
+565,2,48.04817398908648,0.0,Partner,Product 52,PayPal
+566,7,238.49178050868332,0.2,Reseller,Product 70,Cash
+567,7,174.44912259222292,0.0,Partner,Product 48,Cash
+568,5,205.52730564479305,0.0,Partner,Product 93,Wire Transfer
+569,2,117.58142238260297,0.05,Partner,Product 50,Cash
+570,1,413.2620644704661,0.1,Partner,Product 25,PayPal
+571,3,349.1160870419408,0.0,Partner,Product 23,Cash
+572,4,404.49425606287474,0.0,Direct,Product 96,Credit Card
+573,7,211.48384381734712,0.0,Direct,Product 38,Credit Card
+574,1,67.42991378331438,0.05,Direct,Product 90,Credit Card
+575,3,392.8477093161795,0.05,Online,Product 46,PayPal
+576,4,0.0,0.1,Reseller,Product 71,Cash
+577,8,0.0,0.05,Direct,Product 85,Credit Card
+578,7,305.78222827409377,0.2,Partner,Product 12,Cash
+579,4,336.7552217397725,0.05,Online,Product 81,Cash
+580,2,255.05524851754723,0.1,Direct,Product 45,Wire Transfer
+581,3,272.6081886375379,0.2,Direct,Product 74,Credit Card
+582,2,366.2578131915412,0.05,Online,Product 66,Cash
+583,7,128.5465233546095,0.1,Partner,Product 67,Wire Transfer
+584,5,360.06784039490867,0.0,Online,Product 15,Wire Transfer
+585,3,295.6337678340889,0.15,Reseller,Product 16,Cash
+586,5,405.26587598314006,0.1,Online,Product 13,Wire Transfer
+587,8,276.8035099608939,0.05,Reseller,Product 60,PayPal
+588,1,196.45367783624832,0.05,Partner,Product 11,Wire Transfer
+589,5,419.5547046761528,0.0,Online,Product 58,Credit Card
+590,6,253.1667889123572,0.2,Direct,Product 52,Cash
+591,3,442.62826009417387,0.05,Direct,Product 30,Wire Transfer
+592,6,179.21755659999505,0.05,Reseller,Product 71,Wire Transfer
+593,3,148.4114889213018,0.2,Direct,Product 34,Cash
+594,9,0.0,0.1,Online,Product 76,PayPal
+595,9,454.8704089520135,0.1,Direct,Product 84,Credit Card
+596,1,232.629257303151,0.15,Reseller,Product 84,Wire Transfer
+597,7,392.509541538523,0.15,Online,Product 84,Wire Transfer
+598,6,150.85621579965257,0.2,Online,Product 97,Credit Card
+599,2,191.76109399730493,0.05,Reseller,Product 11,PayPal
+600,4,32.00653650785177,0.1,Partner,Product 72,PayPal
+601,2,14.43653917438178,0.0,Online,Product 82,Wire Transfer
+602,8,476.5886749918214,0.15,Reseller,Product 87,Cash
+603,5,405.2798246504222,0.2,Direct,Product 91,Cash
+604,1,359.47137280848267,0.05,Partner,Product 18,Cash
+605,2,339.5056440322641,0.2,Online,Product 37,Wire Transfer
+606,9,345.7158118384972,0.1,Online,Product 84,PayPal
+607,5,261.78868746131616,0.1,Reseller,Product 80,PayPal
+608,5,0.0,0.05,Partner,Product 18,Cash
+609,1,192.15225450410185,0.1,Partner,Product 20,Wire Transfer
+610,3,15.93052722029264,0.15,Online,Product 51,Cash
+611,4,47.04646990220788,0.1,Online,Product 19,Cash
+612,5,107.50614809012404,0.1,Reseller,Product 13,PayPal
+613,9,107.6424648687324,0.05,Reseller,Product 34,Credit Card
+614,3,258.459226901972,0.15,Direct,Product 67,Cash
+615,7,84.28158665204869,0.05,Reseller,Product 8,PayPal
+616,1,86.67359084176428,0.0,Direct,Product 16,Wire Transfer
+617,8,272.4717336803135,0.2,Reseller,Product 71,Credit Card
+618,6,152.12231066159407,0.0,Online,Product 97,Credit Card
+619,1,335.46749864459446,0.0,Online,Product 69,PayPal
+620,8,320.8382075471268,0.05,Online,Product 40,Wire Transfer
+621,4,202.438064202994,0.1,Online,Product 12,Wire Transfer
+622,7,242.38496027870727,0.1,Partner,Product 50,Credit Card
+623,1,350.35175935410984,0.15,Reseller,Product 81,PayPal
+624,3,445.4429493300453,0.0,Partner,Product 1,PayPal
+625,5,470.9844150465229,0.0,Reseller,Product 57,Credit Card
+626,3,131.19675475135085,0.0,Partner,Product 25,Wire Transfer
+627,5,128.33327777586524,0.1,Reseller,Product 96,Wire Transfer
+628,4,95.8586683318554,0.0,Direct,Product 4,PayPal
+629,8,410.22193858776166,0.15,Partner,Product 79,Credit Card
+630,7,305.71161706125554,0.0,Online,Product 76,Wire Transfer
+631,8,382.8171521560831,0.0,Online,Product 88,Cash
+632,3,269.53326473335375,0.05,Reseller,Product 42,Wire Transfer
+633,7,60.23282239257248,0.1,Direct,Product 69,Cash
+634,4,10.065999572197809,0.1,Partner,Product 75,PayPal
+635,3,0.0,0.0,Online,Product 9,Cash
+636,9,326.7647834025859,0.0,Direct,Product 87,Cash
+637,9,214.0871716329007,0.15,Direct,Product 27,Wire Transfer
+638,5,0.0,0.1,Partner,Product 13,PayPal
+639,9,378.3560262739618,0.05,Online,Product 50,Cash
+640,9,448.1062082412929,0.05,Partner,Product 87,Cash
+641,5,284.73236452008547,0.15,Direct,Product 38,Cash
+642,6,163.77513602996362,0.1,Partner,Product 36,Wire Transfer
+643,1,458.1288452857939,0.0,Partner,Product 2,Cash
+644,3,130.2226339414434,0.2,Reseller,Product 66,PayPal
+645,2,297.0737463422244,0.1,Online,Product 89,Cash
+646,3,297.5988882138645,0.0,Online,Product 32,Credit Card
+647,5,89.06777251713801,0.1,Reseller,Product 30,Wire Transfer
+648,5,471.429073462435,0.1,Reseller,Product 91,Cash
+649,3,476.2006070772978,0.05,Partner,Product 48,Wire Transfer
+650,9,451.9506964070835,0.0,Direct,Product 98,Credit Card
+651,4,0.0,0.0,Reseller,Product 70,Cash
+652,3,331.810471102533,0.15,Direct,Product 87,Credit Card
+653,3,381.9125884357462,0.0,Partner,Product 41,Credit Card
+654,6,73.739528216184,0.15,Partner,Product 80,PayPal
+655,2,42.56702963037334,0.2,Reseller,Product 88,Credit Card
+656,3,0.0,0.2,Partner,Product 95,Credit Card
+657,1,478.0064515729337,0.15,Direct,Product 62,Cash
+658,3,400.1583107652706,0.05,Reseller,Product 91,PayPal
+659,9,356.2486362405677,0.1,Online,Product 91,Credit Card
+660,7,91.2173921118764,0.1,Partner,Product 19,Cash
+661,8,179.14418216216316,0.0,Reseller,Product 72,Credit Card
+662,7,115.05917666665064,0.0,Online,Product 27,Cash
+663,6,144.8912245914115,0.1,Direct,Product 96,Cash
+664,5,310.66601597635463,0.1,Partner,Product 18,PayPal
+665,6,243.6810521693053,0.1,Partner,Product 1,Cash
+666,9,340.2697603388084,0.2,Direct,Product 24,Cash
+667,7,393.0936930390184,0.05,Direct,Product 58,PayPal
+668,3,410.3172145632,0.1,Online,Product 94,Credit Card
+669,1,144.60486937346707,0.1,Reseller,Product 91,Credit Card
+670,4,408.9215859396693,0.2,Direct,Product 82,Credit Card
+671,6,296.01965798836835,0.0,Partner,Product 6,Cash
+672,4,253.3807571807938,0.2,Reseller,Product 8,Cash
+673,4,45.80996539323735,0.0,Online,Product 33,Cash
+674,8,147.69220446526967,0.0,Direct,Product 35,Wire Transfer
+675,5,469.60296340260817,0.15,Reseller,Product 34,PayPal
+676,2,0.0,0.1,Direct,Product 89,Credit Card
+677,4,459.9371524709642,0.0,Partner,Product 34,Wire Transfer
+678,7,195.75608384924877,0.0,Partner,Product 92,Cash
+679,4,68.06628556309425,0.15,Reseller,Product 46,Cash
+680,3,333.1602766339774,0.2,Direct,Product 47,Wire Transfer
+681,3,376.6943682962125,0.05,Partner,Product 72,Wire Transfer
+682,3,0.0,0.0,Reseller,Product 87,PayPal
+683,4,183.59295033643568,0.15,Partner,Product 25,Credit Card
+684,6,122.0516220057683,0.05,Online,Product 84,Credit Card
+685,4,481.756491624071,0.0,Partner,Product 41,Wire Transfer
+686,1,479.2146973910705,0.0,Reseller,Product 70,Credit Card
+687,4,367.142106712274,0.2,Reseller,Product 19,Wire Transfer
+688,7,59.92727015234663,0.0,Partner,Product 1,Credit Card
+689,2,255.1965613979986,0.15,Online,Product 5,PayPal
+690,4,266.0625336750051,0.05,Partner,Product 77,Credit Card
+691,4,169.0107820859176,0.0,Partner,Product 81,PayPal
+692,8,382.05332839005206,0.15,Partner,Product 52,PayPal
+693,2,92.07063365611278,0.0,Online,Product 86,Cash
+694,3,475.9550113062487,0.05,Direct,Product 52,Wire Transfer
+695,5,0.0,0.1,Online,Product 56,Credit Card
+696,5,93.16693000269235,0.0,Partner,Product 2,Wire Transfer
+697,4,0.0,0.05,Partner,Product 81,Credit Card
+698,7,75.57589786984964,0.0,Reseller,Product 55,Wire Transfer
+699,8,232.83452785080397,0.15,Direct,Product 47,Cash
+700,1,330.5250411436581,0.1,Direct,Product 43,Cash
+701,4,0.0,0.1,Reseller,Product 36,PayPal
+702,7,182.99469188414812,0.05,Reseller,Product 8,Cash
+703,4,33.61114607271515,0.0,Direct,Product 32,Cash
+704,8,257.3498431692188,0.2,Partner,Product 88,PayPal
+705,2,0.0,0.0,Reseller,Product 56,Cash
+706,7,55.38648669516993,0.0,Direct,Product 19,Cash
+707,4,272.4213692910396,0.2,Direct,Product 90,Credit Card
+708,1,160.32053376584918,0.1,Partner,Product 72,Cash
+709,1,280.8264671020872,0.05,Partner,Product 9,Cash
+710,9,470.1435549306429,0.0,Partner,Product 46,PayPal
+711,2,51.70070819869483,0.05,Online,Product 21,Cash
+712,6,132.7292704083245,0.0,Partner,Product 12,PayPal
+713,9,358.7441748155639,0.15,Online,Product 64,Cash
+714,8,230.62458061001627,0.2,Online,Product 93,PayPal
+715,1,257.91937479011654,0.15,Online,Product 33,Cash
+716,3,0.0,0.0,Online,Product 43,PayPal
+717,9,468.7775045197741,0.15,Reseller,Product 25,Cash
+718,5,14.428849848853169,0.15,Reseller,Product 73,Wire Transfer
+719,4,398.4514756506783,0.0,Online,Product 97,Wire Transfer
+720,1,190.94757740561516,0.2,Direct,Product 96,Credit Card
+721,7,59.88380464527308,0.05,Partner,Product 50,Wire Transfer
+722,1,403.3773580640053,0.1,Partner,Product 35,Cash
+723,3,19.470539149624507,0.0,Partner,Product 70,PayPal
+724,6,145.32308333224074,0.15,Reseller,Product 23,PayPal
+725,1,203.6141447296366,0.15,Partner,Product 14,Wire Transfer
+726,9,442.6669741665888,0.2,Online,Product 11,Cash
+727,7,428.9372695851224,0.1,Reseller,Product 69,Wire Transfer
+728,4,169.3924029972564,0.1,Online,Product 87,Wire Transfer
+729,4,264.3258172634789,0.05,Partner,Product 96,PayPal
+730,1,464.8092280758362,0.1,Reseller,Product 10,Cash
+731,4,454.8408718029317,0.0,Reseller,Product 25,PayPal
+732,2,354.88997490082227,0.2,Online,Product 99,Cash
+733,5,186.51462021220965,0.2,Partner,Product 51,PayPal
+734,7,89.21900375611133,0.2,Direct,Product 74,Credit Card
+735,9,132.4789037348344,0.1,Direct,Product 92,PayPal
+736,8,318.4832714769509,0.0,Online,Product 6,Credit Card
+737,4,131.30428743714435,0.05,Partner,Product 94,Cash
+738,9,324.4498546762935,0.15,Partner,Product 13,Cash
+739,6,123.68890835131724,0.05,Online,Product 29,Wire Transfer
+740,8,0.0,0.2,Online,Product 33,Wire Transfer
+741,4,169.86441984016193,0.05,Online,Product 76,PayPal
+742,5,304.7614008569138,0.15,Direct,Product 19,Cash
+743,1,0.0,0.15,Reseller,Product 61,Cash
+744,7,21.56153267630927,0.0,Online,Product 51,Wire Transfer
+745,8,259.3563722396174,0.0,Partner,Product 60,Wire Transfer
+746,8,0.0,0.1,Online,Product 76,Cash
+747,9,474.36713272259067,0.2,Direct,Product 42,Credit Card
+748,8,361.98227593228194,0.15,Partner,Product 85,PayPal
+749,8,0.0,0.0,Direct,Product 21,Wire Transfer
+750,3,29.771905161252857,0.0,Partner,Product 11,PayPal
+751,8,34.48972404324258,0.2,Reseller,Product 24,PayPal
+752,2,472.4137804819082,0.1,Reseller,Product 97,PayPal
+753,8,388.0971863795178,0.2,Reseller,Product 74,PayPal
+754,1,461.440680984358,0.05,Partner,Product 54,Cash
+755,1,489.4774795106789,0.05,Partner,Product 18,Credit Card
+756,3,451.869273987652,0.0,Online,Product 59,Cash
+757,2,379.5898369400411,0.15,Direct,Product 53,Credit Card
+758,3,41.363109838224254,0.15,Online,Product 42,PayPal
+759,1,354.2448457520554,0.1,Direct,Product 81,Cash
+760,2,283.93904962383505,0.0,Reseller,Product 16,PayPal
+761,1,156.7871821973982,0.2,Partner,Product 50,PayPal
+762,6,296.3799657811388,0.0,Direct,Product 89,Cash
+763,8,0.0,0.1,Direct,Product 50,Cash
+764,1,406.4215837429214,0.05,Direct,Product 56,Wire Transfer
+765,3,263.82395253826616,0.05,Direct,Product 13,Cash
+766,6,0.0,0.0,Partner,Product 62,Cash
+767,6,54.78182830257044,0.0,Direct,Product 45,PayPal
+768,3,0.0,0.1,Direct,Product 76,Cash
+769,8,362.0424341880495,0.0,Partner,Product 47,Cash
+770,6,300.6475273293394,0.0,Reseller,Product 52,PayPal
+771,3,0.0,0.0,Direct,Product 80,Credit Card
+772,8,142.76192217501907,0.0,Partner,Product 70,Wire Transfer
+773,6,254.45887562261157,0.1,Reseller,Product 60,Cash
+774,3,231.1341153843349,0.0,Online,Product 60,Cash
+775,1,101.20658989914048,0.1,Direct,Product 30,Wire Transfer
+776,5,422.9288320586719,0.05,Direct,Product 46,Cash
+777,5,229.35997845110495,0.05,Online,Product 19,Credit Card
+778,5,155.6724872505935,0.1,Online,Product 27,Wire Transfer
+779,4,327.8330888167196,0.1,Online,Product 34,Credit Card
+780,8,0.0,0.0,Partner,Product 1,Wire Transfer
+781,2,200.20119600222785,0.0,Partner,Product 96,Wire Transfer
+782,9,415.99224297397984,0.1,Online,Product 74,Credit Card
+783,8,353.57323217922726,0.0,Reseller,Product 6,Wire Transfer
+784,9,332.103206263363,0.15,Direct,Product 66,Credit Card
+785,3,190.49013475923212,0.2,Online,Product 69,PayPal
+786,1,24.293184186179587,0.15,Direct,Product 61,PayPal
+787,1,184.9893680572464,0.1,Online,Product 53,PayPal
+788,5,0.0,0.2,Direct,Product 46,Cash
+789,9,264.8832472322681,0.15,Reseller,Product 59,Wire Transfer
+790,8,192.1447925371482,0.05,Reseller,Product 3,Wire Transfer
+791,1,247.69638338997467,0.0,Reseller,Product 48,PayPal
+792,6,115.30719214783396,0.05,Partner,Product 54,Credit Card
+793,9,37.52627790024512,0.0,Online,Product 21,Cash
+794,5,360.0200515101488,0.2,Direct,Product 13,Credit Card
+795,4,0.0,0.0,Reseller,Product 4,Cash
+796,9,113.14840043601804,0.2,Partner,Product 88,Wire Transfer
+797,7,99.8866762376829,0.1,Reseller,Product 5,Wire Transfer
+798,6,35.31767361240094,0.1,Online,Product 48,Credit Card
+799,7,61.61928739585326,0.1,Online,Product 95,Credit Card
+800,8,423.3883353853937,0.1,Online,Product 24,Cash
+801,3,44.86755973498208,0.0,Reseller,Product 58,Credit Card
+802,9,113.87708680234245,0.15,Reseller,Product 93,PayPal
+803,6,490.3806830616707,0.05,Reseller,Product 26,Credit Card
+804,1,29.07568202957705,0.15,Online,Product 3,Credit Card
+805,2,85.86602017288273,0.05,Partner,Product 93,Cash
+806,5,484.3522479048719,0.0,Online,Product 59,Cash
+807,7,334.3647829489956,0.1,Reseller,Product 12,Wire Transfer
+808,1,217.1370320780268,0.0,Online,Product 72,Wire Transfer
+809,5,70.23113244803992,0.2,Online,Product 60,Credit Card
+810,8,0.0,0.0,Direct,Product 91,Wire Transfer
+811,5,319.81825528244354,0.05,Direct,Product 44,Wire Transfer
+812,1,0.0,0.2,Online,Product 57,Credit Card
+813,4,0.0,0.1,Partner,Product 92,Cash
+814,3,141.59546205228486,0.0,Direct,Product 58,Wire Transfer
+815,5,226.72396467105628,0.1,Online,Product 56,PayPal
+816,1,202.66564850368192,0.1,Reseller,Product 50,Credit Card
+817,6,354.05158712909645,0.05,Partner,Product 33,Credit Card
+818,3,467.1331826591393,0.1,Partner,Product 22,Cash
+819,4,357.56720595157867,0.05,Online,Product 81,PayPal
+820,2,309.16790995755804,0.1,Reseller,Product 47,Cash
+821,2,479.3877193178175,0.05,Direct,Product 39,Credit Card
+822,2,489.7007464356564,0.0,Direct,Product 44,Credit Card
+823,5,222.67027662729183,0.0,Direct,Product 58,Wire Transfer
+824,6,425.5406239047272,0.05,Online,Product 85,Credit Card
+825,3,227.52053270812516,0.05,Direct,Product 65,Wire Transfer
+826,8,364.1414985970143,0.0,Online,Product 27,Credit Card
+827,2,303.6580369083245,0.2,Direct,Product 85,Credit Card
+828,4,352.48492595881896,0.1,Direct,Product 51,Wire Transfer
+829,6,371.56364256895705,0.2,Online,Product 35,Cash
+830,8,472.7798055202087,0.05,Online,Product 86,Credit Card
+831,4,492.5806173536132,0.1,Online,Product 85,Wire Transfer
+832,6,71.51960523370016,0.1,Direct,Product 2,Cash
+833,3,302.8574585243245,0.1,Direct,Product 18,Credit Card
+834,8,283.09521309077394,0.05,Direct,Product 94,Credit Card
+835,7,162.81329037927276,0.2,Direct,Product 83,PayPal
+836,9,420.57510367738377,0.15,Partner,Product 31,PayPal
+837,8,103.55402668510531,0.0,Partner,Product 58,Wire Transfer
+838,8,53.751867017530735,0.15,Partner,Product 69,Cash
+839,2,121.83532811191256,0.0,Direct,Product 89,Credit Card
+840,3,340.6452880620312,0.1,Partner,Product 23,Cash
+841,9,321.61780651022696,0.15,Direct,Product 74,Cash
+842,5,91.80701348612736,0.15,Direct,Product 10,Credit Card
+843,8,204.9399464960569,0.1,Reseller,Product 75,PayPal
+844,2,218.1769130053626,0.0,Partner,Product 19,PayPal
+845,5,251.96887982389504,0.05,Direct,Product 44,Cash
+846,1,150.39457897429023,0.2,Online,Product 79,Cash
+847,4,433.9949218653671,0.2,Partner,Product 24,PayPal
+848,1,200.80842009964888,0.0,Direct,Product 45,Cash
+849,9,40.47958082070435,0.2,Online,Product 2,Credit Card
+850,5,0.0,0.0,Partner,Product 22,Credit Card
+851,7,0.0,0.1,Reseller,Product 80,PayPal
+852,7,483.8472848755116,0.1,Online,Product 52,Credit Card
+853,3,499.4573798963124,0.05,Direct,Product 48,PayPal
+854,7,327.7673618581572,0.1,Partner,Product 45,PayPal
+855,5,340.32384481267087,0.0,Reseller,Product 18,Cash
+856,4,0.0,0.2,Partner,Product 58,Wire Transfer
+857,4,362.1824127482298,0.05,Partner,Product 15,Wire Transfer
+858,8,0.0,0.1,Direct,Product 89,Cash
+859,8,168.283399419506,0.15,Online,Product 67,Credit Card
+860,5,432.2285428557992,0.05,Online,Product 49,PayPal
+861,5,430.4314027935423,0.05,Reseller,Product 26,Credit Card
+862,2,441.67677276343215,0.1,Direct,Product 23,PayPal
+863,5,354.81289201823495,0.0,Reseller,Product 81,Cash
+864,4,161.79605101245863,0.15,Partner,Product 9,Cash
+865,4,215.5295170390837,0.0,Online,Product 3,Wire Transfer
+866,3,43.81372038027999,0.0,Direct,Product 96,Credit Card
+867,4,117.85454969332903,0.2,Online,Product 19,Credit Card
+868,6,321.82339795135346,0.0,Direct,Product 66,Credit Card
+869,1,0.0,0.05,Reseller,Product 34,PayPal
+870,4,0.0,0.1,Direct,Product 58,Credit Card
+871,7,0.0,0.1,Reseller,Product 2,PayPal
+872,9,230.1813735994246,0.0,Direct,Product 87,Wire Transfer
+873,4,149.2943055344832,0.2,Reseller,Product 78,Wire Transfer
+874,3,0.0,0.05,Reseller,Product 78,Wire Transfer
+875,6,141.58154047312755,0.0,Reseller,Product 57,Cash
+876,1,175.2993179168554,0.05,Online,Product 86,PayPal
+877,3,128.35305243382408,0.15,Reseller,Product 5,PayPal
+878,5,460.5702020814644,0.1,Reseller,Product 57,Credit Card
+879,8,307.79853990383407,0.05,Online,Product 42,Wire Transfer
+880,7,105.6678954486811,0.0,Direct,Product 5,Cash
+881,8,173.47791396006417,0.2,Reseller,Product 44,PayPal
+882,9,100.96688540160908,0.1,Direct,Product 45,Credit Card
+883,6,61.89384415784124,0.0,Direct,Product 74,Cash
+884,4,98.9908442007353,0.05,Direct,Product 81,Credit Card
+885,7,0.0,0.15,Online,Product 35,Credit Card
+886,1,19.380985318449973,0.0,Online,Product 89,Cash
+887,6,337.20268988554494,0.0,Reseller,Product 7,PayPal
+888,9,224.1279839761542,0.1,Partner,Product 86,PayPal
+889,7,480.33277332959307,0.15,Online,Product 39,Cash
+890,2,497.461454043316,0.0,Direct,Product 82,Wire Transfer
+891,7,445.6726827306049,0.15,Reseller,Product 20,PayPal
+892,1,44.54105336514088,0.0,Partner,Product 75,PayPal
+893,7,377.960501198026,0.2,Direct,Product 73,Cash
+894,1,218.36181086447,0.15,Partner,Product 46,Wire Transfer
+895,6,265.5100218417713,0.2,Partner,Product 10,Wire Transfer
+896,2,377.4891212415147,0.1,Partner,Product 52,PayPal
+897,9,453.9943910449236,0.15,Online,Product 38,Cash
+898,1,421.1086905818253,0.1,Reseller,Product 51,PayPal
+899,9,153.7212192824767,0.2,Partner,Product 2,Credit Card
+900,5,351.5965448869865,0.0,Online,Product 52,Cash
+901,9,318.8211375335174,0.1,Partner,Product 17,Wire Transfer
+902,1,412.4802978213402,0.1,Online,Product 28,Credit Card
+903,2,316.1440927668072,0.2,Direct,Product 18,Cash
+904,4,336.6342347328434,0.1,Partner,Product 53,Cash
+905,8,355.6758068389083,0.05,Online,Product 75,Cash
+906,8,106.4935951821799,0.0,Online,Product 87,Credit Card
+907,2,329.30348263386554,0.15,Direct,Product 90,Credit Card
+908,9,487.355277470015,0.1,Direct,Product 98,Wire Transfer
+909,5,0.0,0.2,Online,Product 65,PayPal
+910,6,164.97237336736032,0.15,Partner,Product 63,Credit Card
+911,1,104.9929032890774,0.2,Direct,Product 10,Wire Transfer
+912,5,134.0197541980083,0.1,Direct,Product 95,PayPal
+913,9,0.0,0.0,Reseller,Product 40,Cash
+914,6,45.72189933027272,0.0,Reseller,Product 92,PayPal
+915,6,266.0299887319383,0.05,Online,Product 30,PayPal
+916,9,425.0598052221108,0.1,Direct,Product 32,Credit Card
+917,5,0.0,0.2,Direct,Product 2,PayPal
+918,9,34.61074561734715,0.1,Online,Product 44,PayPal
+919,4,359.1844532182713,0.1,Direct,Product 74,Wire Transfer
+920,5,123.92793618183728,0.1,Reseller,Product 9,Wire Transfer
+921,7,0.0,0.2,Direct,Product 37,Credit Card
+922,1,258.82448133980176,0.1,Online,Product 84,PayPal
+923,6,38.28875802030744,0.0,Partner,Product 28,Wire Transfer
+924,1,215.4431139713508,0.0,Direct,Product 52,Cash
+925,8,0.0,0.0,Online,Product 23,Wire Transfer
+926,8,91.98743896051958,0.1,Partner,Product 62,Credit Card
+927,6,173.6844831776969,0.0,Direct,Product 16,Cash
+928,2,43.66970208474088,0.0,Reseller,Product 30,PayPal
+929,6,355.518181329576,0.0,Partner,Product 5,Cash
+930,6,42.838103498092885,0.0,Partner,Product 51,Wire Transfer
+931,7,47.03597078849282,0.1,Online,Product 13,Wire Transfer
+932,3,243.4045093175384,0.1,Direct,Product 97,PayPal
+933,5,194.8858464419645,0.15,Direct,Product 50,Credit Card
+934,5,498.8378657270567,0.2,Partner,Product 14,Wire Transfer
+935,8,184.10667675220495,0.1,Reseller,Product 11,Credit Card
+936,3,222.05577100363868,0.15,Online,Product 52,PayPal
+937,8,286.3962741284237,0.0,Direct,Product 3,Cash
+938,4,385.1179077527718,0.2,Direct,Product 16,Wire Transfer
+939,5,376.836164721838,0.05,Direct,Product 56,PayPal
+940,6,0.0,0.15,Partner,Product 91,Credit Card
+941,6,132.99067779852714,0.1,Direct,Product 47,Credit Card
+942,8,419.3853106136752,0.1,Online,Product 16,Wire Transfer
+943,4,420.86099858308216,0.1,Reseller,Product 33,PayPal
+944,7,179.79684229683193,0.1,Direct,Product 81,Credit Card
+945,8,202.3045112524452,0.05,Online,Product 66,Wire Transfer
+946,9,479.3170024842199,0.0,Partner,Product 5,Credit Card
+947,1,105.95821122579233,0.0,Reseller,Product 55,Wire Transfer
+948,2,268.5619584486305,0.2,Online,Product 24,Wire Transfer
+949,9,214.1172559563232,0.15,Direct,Product 5,Credit Card
+950,3,119.90380680967208,0.0,Reseller,Product 90,Credit Card
+951,8,88.57904899867414,0.1,Direct,Product 85,Cash
+952,4,286.8918031018506,0.15,Direct,Product 46,PayPal
+953,2,170.05323221869637,0.15,Direct,Product 91,Wire Transfer
+954,8,465.2783648075768,0.2,Direct,Product 93,Wire Transfer
+955,2,205.0225935477064,0.0,Reseller,Product 61,Wire Transfer
+956,2,27.64922096279893,0.0,Direct,Product 2,PayPal
+957,9,18.600658049648167,0.0,Partner,Product 49,Cash
+958,9,424.5015054420887,0.2,Online,Product 50,Cash
+959,6,455.87214048865206,0.05,Reseller,Product 63,PayPal
+960,5,40.65677268753127,0.15,Online,Product 75,PayPal
+961,6,436.5582134719983,0.1,Direct,Product 1,Wire Transfer
+962,3,395.8990520708018,0.15,Reseller,Product 54,Cash
+963,2,495.7506717664681,0.05,Direct,Product 99,Credit Card
+964,8,44.80709563156104,0.05,Partner,Product 54,Cash
+965,1,448.8806410332015,0.05,Reseller,Product 54,Cash
+966,3,80.00922105631174,0.0,Reseller,Product 69,Credit Card
+967,5,142.83716434439222,0.2,Partner,Product 48,Cash
+968,4,243.4541233084579,0.0,Reseller,Product 70,Wire Transfer
+969,5,140.0098074021788,0.05,Partner,Product 33,PayPal
+970,1,403.8691271447889,0.0,Reseller,Product 12,Cash
+971,9,364.4873945539069,0.15,Reseller,Product 54,Credit Card
+972,5,128.3353077164884,0.15,Direct,Product 86,Wire Transfer
+973,1,412.8681445400474,0.1,Online,Product 3,Cash
+974,5,391.23236914088005,0.2,Partner,Product 49,Cash
+975,8,42.817069892383046,0.1,Online,Product 95,Cash
+976,3,336.5668932881495,0.1,Reseller,Product 96,PayPal
+977,4,482.1146280349183,0.0,Reseller,Product 7,Cash
+978,5,112.50087804988463,0.2,Reseller,Product 19,Credit Card
+979,1,0.0,0.0,Online,Product 82,Cash
+980,3,0.0,0.0,Reseller,Product 25,PayPal
+981,4,208.50032031850756,0.05,Reseller,Product 75,PayPal
+982,9,125.13696844801686,0.0,Direct,Product 5,Cash
+983,9,0.0,0.15,Reseller,Product 91,Cash
+984,5,476.2304479866257,0.2,Reseller,Product 33,Credit Card
+985,5,323.9014399389548,0.0,Partner,Product 96,Credit Card
+986,1,53.308624022414165,0.0,Online,Product 5,Credit Card
+987,7,131.70436758120212,0.1,Direct,Product 83,PayPal
+988,3,0.0,0.1,Partner,Product 9,Wire Transfer
+989,5,0.0,0.0,Partner,Product 83,Wire Transfer
+990,2,392.379096473372,0.2,Partner,Product 15,PayPal
+991,7,200.7229311289764,0.0,Reseller,Product 81,Cash
+992,5,258.39101460129893,0.05,Online,Product 7,Cash
+993,4,339.0247828469314,0.15,Direct,Product 17,Wire Transfer
+994,5,439.39652223973263,0.05,Partner,Product 88,Cash
+995,5,490.7604285779928,0.0,Reseller,Product 16,Credit Card
+996,9,236.24091046842835,0.1,Online,Product 38,Cash
+997,6,0.0,0.2,Partner,Product 48,Cash
+998,6,0.0,0.0,Online,Product 38,Cash
+999,2,248.9376267369333,0.2,Direct,Product 16,Cash
